@@ -42,7 +42,7 @@ const newEnvVariables = [
     },
     {
         name: 'NODE_CONFIG_DIR',
-        value: Path.join(process.cwd(), 'src/config/environments'),
+        value: Path.join(process.cwd(), 'src/config/'),
     },
 ];
 
